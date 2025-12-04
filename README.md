@@ -15,20 +15,35 @@ https://www.kaggle.com/datasets/drmtya/smart-home-energy-consumption-optimizatio
 
 ### Folder Structure
 /smart-home-energy
+
 │
+
 ├── data
+
 │   └──  smart_home_energy.csv
+
 │
+
 ├── notebooks
+
 │   └── milestone1.ipynb
+
 │
+
 ├── reports
+
 │   └── milestone1
+
 |       └──milestone1.pdf
+
 |       └──figures (plots)
+
 │
+
 ├── README.md (This file)
+
 |
+
 └── requirements.txt (version unspecified)
 
 
