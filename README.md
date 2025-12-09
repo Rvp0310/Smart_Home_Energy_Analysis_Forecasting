@@ -11,14 +11,16 @@ https://www.kaggle.com/datasets/drmtya/smart-home-energy-consumption-optimizatio
 - Checked for missing values and duplicates.
 - Converted `timestamp` to datetime and extracted features like `year`, `month`, and `time`.
 - Performed basic checks to ensure data consistency.
-- Perdormed basic exploratory data analysis (EDA).
+- Performed basic exploratory data analysis (EDA).
+- Scaled numerical attributes and encoded non-numerical categorical attributes.
+- Split the dataset into train and test set (70:30), might split the test set for hypertuning using validation set in later milestones.
 
 ### Folder Structure
 /smart-home-energy
 
 │
 
-├── data
+├── data (excluded from repository due to upload size limitation)
 
 │   └──  smart_home_energy.csv
 
